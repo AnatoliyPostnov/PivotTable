@@ -25,5 +25,10 @@ test {
 	useJUnitPlatform()
 }
 
+<<<<<<< HEAD
 //apply plugin: 'application'
 //mainClassName = "com.postnov.pivot.PivotApplication"
+=======
+apply plugin: 'application'
+mainClassName = "com.postnov.PivotTable.PivotTableApplication"
+>>>>>>> Pivot Table
